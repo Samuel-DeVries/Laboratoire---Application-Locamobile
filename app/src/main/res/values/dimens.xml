@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="marge_carte">12dp</dimen>
+    <dimen name="padding_carte">16dp</dimen>
+</resources>

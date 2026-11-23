@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My ApplicationLocamobile</string>
+    <!--Activite ListeActivity-->
+    <string name="titreListeLogements">Nos logements</string>
+    <string name="hintRecherche">Ville (vide = toutes)</string>
+    <string name="boutonRecherche">Rechercher</string>
+
+    <!--Activite ConnexionActivity-->
+    <string name="titreConnexion">Connexion</string>
+    <string name="emailFieldLabel">Courriel</string>
+    <string name="passwordFieldLabel">Mot de passe</string>
+    <string name="connectionButton">Se connecter</string>
+
+    <!--Activite DetailActivity-->
+    <string name="boutonReserver">Réserver ce logement</string>
+    <string name="bouttonFavoris">Ajouter au favoris</string>
+
+    <!--Activite ReservationActivity-->
+    <string name="titreFormCalcul">Calcul du prix</string>
+    <string name="labelNVoyageurs">Nombre de voyageurs</string>
+    <string name="hintN">0</string>
+    <string name="labelNNuits">Nombre de nuits</string>
+    <string name="boutonCalculer">Calculer le total</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
